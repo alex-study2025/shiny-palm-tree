@@ -1,0 +1,8 @@
+a=6600
+b=4280
+c=1280
+d=a+b+c
+print(f"《java架构师》费用为:{a}元")
+print(f"《python工程师》费用为:{b}元")
+print(f"《算法入门》费用为:{c}元")
+print(f"三项费用的总和为：{d}元")
